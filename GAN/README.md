@@ -5,7 +5,6 @@
 
 
 
-
 ## Dependencies and Output Generation:
 
 * Install required dependencies [make sure to install Jupyter Notebook]
@@ -30,15 +29,9 @@
 ```
 
 
-
-
   
+## Input: (Real Image)
+https://github.com/user-attachments/assets/7eeb53b7-8ecc-41a9-b4b5-04371d86ea6d
 
-
-## Input:
-
-![Alt text](https://github.com/user-attachments/assets/e2080f13-ed86-4f37-96ea-a444cae47318 "Real Input")
-
-## Output
-
-![Alt text](https://github.com/user-attachments/assets/9d3a9412-44a6-455e-8fb3-966ea812e85d "Generated Output")
+## Output: (Generated Image)
+https://github.com/user-attachments/assets/21637b98-a871-4252-82d7-9b377fc865b8
