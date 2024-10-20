@@ -34,4 +34,4 @@
 https://github.com/user-attachments/assets/7eeb53b7-8ecc-41a9-b4b5-04371d86ea6d
 
 ## Output: (Generated Image)
-https://github.com/user-attachments/assets/21637b98-a871-4252-82d7-9b377fc865b8
+https://github.com/user-attachments/assets/51255216-7a49-48d5-b584-9b498ea6e92e
